@@ -1,0 +1,23 @@
+{
+	"ProjectName": "notes",
+	"ProjectPath": "/home/ec2-user/environment/playground/notes",
+	"SourceDir": "src",
+	"DistributionDir": "build",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2018-02-28-20-17-03",
+	"LastConfigurationTime": "2018-02-28-20-17-17",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastSyncTime": "2018-02-28-21-57-43",
+	"BackendLastBuildTime": "",
+	"BackendLastPushTime": "",
+	"BackendLastPushSuccessful": false,
+	"BackendProjectID": "4751d7a5-f2d8-485c-a6a8-8deb2dfa1a13",
+	"BackendProjectName": "notes",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/4751d7a5-f2d8-485c-a6a8-8deb2dfa1a13/build",
+	"BackendProjectCreationTime": "2018-02-28T19:57:17.095Z",
+	"BackendProjectLastUpdatedTime": "2018-02-28T21:54:23.613Z"
+}
